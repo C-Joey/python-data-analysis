@@ -1,3 +1,6 @@
 # python-data-analysis
-北理工-嵩天
-[]
+[numpy](https://nbviewer.jupyter.org/github/C-Joey/python-data-analysis/blob/master/numpy.ipynb)
+
+
+
+
